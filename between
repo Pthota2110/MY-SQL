@@ -1,0 +1,5 @@
+select * from table 
+where (value) between low and high
+where (value) between high and low 
+where (value) between low or high 
+where (vaue) between high or low 
