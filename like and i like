@@ -1,0 +1,4 @@
+select * from the table
+where (value) like 'any starting letter capital %'
+where (value) ilike '%starting letter of the name'
+where (value) like '% any word specifiy EXACT Sentence%'
