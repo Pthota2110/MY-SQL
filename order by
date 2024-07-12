@@ -1,0 +1,2 @@
+select colum_1,column_2 from table
+order by column_1 desc
