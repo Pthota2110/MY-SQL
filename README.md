@@ -1,2 +1,1 @@
-# MY-SQL
-SQL
+select * from table
