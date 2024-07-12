@@ -1,0 +1,2 @@
+select * from table 
+where (value) in ('name','name2')
